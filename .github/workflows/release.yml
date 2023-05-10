@@ -9,7 +9,7 @@ on:
         options:
           - ""
           - ros_gz_interfaces
-          - ros_gz_sim
+          - ros_gz_bridge
 
 jobs:
   release_amd:
